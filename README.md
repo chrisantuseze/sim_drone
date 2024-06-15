@@ -1,3 +1,6 @@
+
+![](controller.png)
+
 ## Getting Started
 
 1. Install PyQt5 using pip:
