@@ -264,7 +264,7 @@ class MyWindow(QWidget):
         #########################################################################################
 
         self.setLayout(main_layout)
-        self.setWindowTitle("My Window")
+        self.setWindowTitle("Sim Drone")
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
